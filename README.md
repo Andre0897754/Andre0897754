@@ -1,6 +1,6 @@
 - # SOBRE MIM!!!
 - ## eu sou o André
-- ### Meu email é ujunior645@gmail.com
+- ### Meu email é ujunior645@gmail.com ou andre.maia.junior@escola.pr.gov.br
 - #### Eu estou estudando Linguagens da Programação JavaScript, CSS e Scratch
 - 📫 How to reach me ...
 
