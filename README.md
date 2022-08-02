@@ -1,4 +1,4 @@
-- # Hi, I’m @Andre0897754
+- # SOBRE MIM!!!
 - ## eu sou o André
 - ### Meu email é ujunior645@gmail.com
 - #### Eu estou estudando Linguagens da Programação JavaScript, CSS e Scratch
