@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Andre0897754
-- 👀# eu sou o André
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- # Hi, I’m @Andre0897754
+- ## eu sou o André
+- ### Meu email é ujunior645@gmail.com
+- #### Eu estou estudando Linguagens da Programação JavaScript, CSS e Scratch
 - 📫 How to reach me ...
 
 <!---
